@@ -1,4 +1,4 @@
-## Coursera Data Science - R week 3 Programming Assignment by Chinmay Gabel
+## Coursera Data Science - R week 3 Programming Assignment by Chinmay Gabel (28/07/18)
 
 ## Below give are the description about the two functions 
 
